@@ -1,0 +1,272 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+img{
+	max-width:100%;
+}
+
+li{
+	list-style-type:none;
+}
+
+a{
+	text-decoration:none;
+}
+
+#topbar{
+	width:100%;
+	height:28px;
+	background:#333;
+}
+
+#phone{
+	margin-left:5px;
+}
+
+#mobilenumber{
+	line-height:30px;
+	font-size:14px;
+	color:#CCC;
+}
+
+#conmobile{
+	color:#096;
+}
+
+#condetails{
+	padding:20px 2px;
+}
+
+#condetails p{
+	font-size:18px;
+}
+
+.floatleft{
+	float:left;
+}
+
+.floatright{
+	float:right;
+}
+
+.socialmedia{
+	padding:6px 18px;
+}
+
+.navbarcolor{
+	background:#000;
+}
+
+.textcolorblack{
+	color:black;
+}
+
+
+#srikanth{
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+#srikanthinfo{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-style:italic;
+}
+
+
+
+#box1{
+	background:#10AEDB;
+}
+
+.boxhp{
+	color:#FFF;
+	
+}
+
+#box1 h3{
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+#box1 p{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:14px;
+}
+
+
+#box2{
+	background:#FB1A94;
+}
+
+#box3{
+	background:#B6DB4D;
+}
+
+#box4{
+	background:#FB9B11;
+}
+
+
+#clientspeak{
+	background:#FFF;
+}
+
+#clientspeak h3{
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+#clientspeak p{
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+.clienthead{
+	font-style:italic;
+}
+
+
+
+
+#form h3{
+	font-family:Verdana, Geneva, sans-serif;
+	text-align:center;
+	color:#000;
+}
+
+footer{
+	width:100%;
+	height:360px;
+	background:#000;
+}
+
+#form{
+	background:#9CF;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#069;
+}
+
+#form h3{
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+#form img{
+	margin:0 auto;
+}
+
+
+#links h3{
+	color:#39C;
+	padding:9px 20px;
+}
+
+
+#links li{
+	padding:9px 20px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+#links li a{
+	color:#CCC;
+}
+
+#iframemaps h3{
+	color:#39C;
+	font-family:Verdana, Geneva, sans-serif;
+	text-align:center;
+}
+
+#footerabout h3{
+	color:#39C;
+	text-align:center;
+}
+
+#footerabout p{
+	font-family:Verdana, Geneva, sans-serif;
+	padding:28px 4px;
+	color:#CCC;
+}
+	
+	
+#copyrights{
+	color:#999;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+#copyrights p{
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+#aboutme h3{
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:bold;
+}
+
+#aboutme p{
+	text-align:center;
+	font-style:italic;
+}
+
+#profilesrikanth h3{
+	font-family:Verdana, Geneva, sans-serif;
+	color:#F60;
+}
+
+#profilesrikanth p{
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+#iworkon h3{
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+
+.iworkonsubsh4{
+	text-align:center;
+	color:#C30;
+}
+
+.iworkonsubsimg{
+	margin:0 auto;
+}
+
+.iworkonsubsp{
+	font-family:Verdana, Geneva, sans-serif;
+	text-align:center;
+}
+
+#iworkonsubs{
+	margin-bottom:20px;
+}
+
+
+#conpage h3{
+	font-family:Verdana, Geneva, sans-serif;
+	text-align:center;
+	text-transform:uppercase;
+}
+
+#conpage p{
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-style:italic;
+}
+
+#boxx{
+	padding:100px 2px;
+}
+
+#quotepage{
+	background:#3CC;
+}
